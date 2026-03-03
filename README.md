@@ -14,7 +14,14 @@ The application emphasizes validation logic, structured design, and real-time in
 ## Tech Stack
 Python • Tkinter • Object-Oriented Programming
 
-## How to Run: 
+## How to Run
 - git clone https://github.com/shivang0127/football-manager.git
 - cd football-manager
 - python LoginView.py
+
+## What I learned
+- Structuring a multi-window Tkinter application with clear separation between UI and core logic
+- Implementing robust validation to prevent duplicate signings and invalid team operations
+- Managing dynamic UI updates (Table/Treeview refresh, button state changes, and dashboard synchronization)
+- Handling user-driven events such as position allocation, player swapping, and keyboard-triggered actions
+- Designing modular components (views, models, utilities) to improve maintainability and readability
