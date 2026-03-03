@@ -5,12 +5,6 @@ from model.application.League import league
 from ManagerDashboardView import ManagerDashboardView
 from model.exception.UnauthorisedAccessException import UnauthorisedAccessException
 
-"""
-Functinalities left to be implemented:
-4. Disable the sign button
-"""
-
-
 class LoginView:
 
     def __init__(self, root, model):
